@@ -31,3 +31,4 @@ python-jose[cryptography]==3.3.0
 email-validator
 httpx
 huggingface_hub
+psycopg[binary]
